@@ -1,0 +1,2 @@
+**EMOTIONNET-Deep CNN Based Facial Expression Classifier
+To effectively classify facial expressions as happy or sad using a deep convolutional neural network (CNN), it's essential to leverage advanced image processing techniques and consider various architectural choices for the model. Incorporating data augmentation strategies and using transfer learning from pre-trained models can significantly enhance accuracy and robustness. Additionally, fine-tuning hyperparameters and employing regularization techniques can further improve model performance and prevent overfitting.
